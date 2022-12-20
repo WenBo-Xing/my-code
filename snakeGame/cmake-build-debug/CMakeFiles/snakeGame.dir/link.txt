@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/snakeGame.dir/main.c.o CMakeFiles/snakeGame.dir/snake.c.o CMakeFiles/snakeGame.dir/snake_ai.c.o CMakeFiles/snakeGame.dir/io.c.o -o snakeGame  -lncurses 

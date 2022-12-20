@@ -1,0 +1,3 @@
+/home/wxing1/snakeGame/cmake-build-debug/CMakeFiles/snakeGame.dir
+/home/wxing1/snakeGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wxing1/snakeGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
